@@ -1,0 +1,2 @@
+pasta JS 01 e aplicado todo os conceitos estruturais HTML/CSS
+e adicionando javaScript salvando em local storage

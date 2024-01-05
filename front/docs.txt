@@ -1,0 +1,35 @@
+
+Documento de Atalho ao acesso ao resumo Front Zuplae
+
+https://docs.google.com/document/d/1GaGhNYIaaNa2FB6M5y5f3zQqA47XDUM66T5xHhp8_oY/edit?usp=sharing
+
+Neste documento contem resumo de passos a serem seguidos na questao de estruturacao das aulas e como aplicalas
+
+001-Formacao Html
+
+002-Estrutura Main/footer
+
+003-Header Estruturacao
+
+004-Adicionando H1
+
+005-Adicionando Table
+
+006-Adicionando Form 
+
+007-Adicionando Redirecionamento
+
+008-Adicionando nav/ul/li/a 
+
+009-Adicionando Redirecionamento  CSS
+
+010-Adicionando Imagem
+
+<======================================= Criando CRUD =============================================>
+Modulo-3
+ Criando aplicando o conceito CRUD
+*Create
+*Read
+*Update
+*Delete
+aqui é aplicado todos os conceitos estruturais anteriores para construcao de uma pagina com redirecionamento de links entre Html
